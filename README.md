@@ -1,5 +1,4 @@
 # Wordle-Solver
-AI final project
 
 Jackson Shelby, Hannah Storrey, Eric Feng
 
